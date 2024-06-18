@@ -10,7 +10,6 @@ This repository contains a simple React application that displays a list of prod
 - [Components](#components)
 - [Styling](#styling)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -101,7 +100,3 @@ The application styling is defined in main.css. The styles include layout, color
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE(#https://github.com/Judith-20/shopping-cart/blob/main/LICENSE) file for details.
