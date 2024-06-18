@@ -27,16 +27,14 @@ To set up the project locally, follow these steps:
 
 3. Install the dependencies:
     ```sh
-npm install
+    npm install
 
 ## Usage
 
 To start the development server, run:
-
     ```sh
+    npm start 
 
-npm start 
-```
 This will launch the app in your default web browser. The app will automatically reload if you make changes to the code.
 
 ## Project Structure
