@@ -1,0 +1,64 @@
+.App{
+    text-align: center;
+    background: rgb(238, 149, 149);
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+button:focus {
+    outline: none;
+}
+.product-list{
+    margin: 20px 0px;
+}
+.product{
+    border-collapse: collapse;
+    border: 1px solid white;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 400px;
+    margin-bottom: 10px;
+    background: white;
+}
+
+button{
+    background-color: darkmagenta;
+    border-radius: 10px;
+    color: wheat;
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: 15px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+/*.product {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px;
+    text-align: center;
+}*/
+
+.product-thumbnail {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto 16px;
+}
+
+.cart-item{
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 500px;
+    align-items: center;
+    margin-left: 400px;
+    background: wheat;
+    
+}
+.cart-item button{
+margin-left: 10px;
+}
