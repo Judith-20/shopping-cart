@@ -32,6 +32,7 @@ To set up the project locally, follow these steps:
 ## Usage
 
 To start the development server, run:
+    
     ```sh
     npm start 
 
